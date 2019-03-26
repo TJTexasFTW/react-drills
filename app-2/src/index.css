@@ -3,3 +3,20 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+ul {
+  margin-left: 10%;
+  font-size: 40pt;
+  position: left;
+}
+
+li {
+  margin-left: 30%;
+  width: 40%;
+}
+
+h2 {
+  font-size: 60pt;
+  font-weight: bold;
+  text-decoration: underline;
+}
